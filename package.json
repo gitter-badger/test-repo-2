@@ -1,0 +1,31 @@
+{
+  "name": "test-repo",
+  "version": "0.0.0",
+  "description": "undefined",
+  "main": "index.js",
+  "engines": {
+    "node": ">=5.x"
+  },
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madhums/test-repo.git"
+  },
+  "keywords": [
+
+  ],
+  "author": "Madhusudhan Srinivasa <madhums8@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madhums/test-repo/issues"
+  },
+  "homepage": "https://github.com/madhums/test-repo",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "tape": "latest"
+  }
+}
